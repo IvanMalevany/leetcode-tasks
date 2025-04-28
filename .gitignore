@@ -1,0 +1,17 @@
+node_modules
+*.log
+
+# Husky
+.husky/_
+
+# Output
+coverage
+build
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
